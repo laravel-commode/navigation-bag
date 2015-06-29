@@ -1,0 +1,23 @@
+{
+    "name": "laravel-commode/navigation-bag",
+    "description": "",
+    "authors": [
+        {
+            "name": "dubpub",
+            "email": "dubpubz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.1.*",
+        "illuminate/session": "5.1.*",
+        "illuminate/routing": "5.1.*",
+        "laravel-commode/silent-service": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelCommode\\NavigationBag\\": "src/LaravelCommode/NavigationBag"
+        }
+    },
+    "minimum-stability": "dev"
+}
