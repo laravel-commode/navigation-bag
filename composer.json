@@ -12,6 +12,7 @@
         "illuminate/support": "5.1.*",
         "illuminate/session": "5.1.*",
         "illuminate/routing": "5.1.*",
+        "laravel-commode/utils": "dev-master",
         "laravel-commode/silent-service": "dev-master"
     },
     "autoload": {
