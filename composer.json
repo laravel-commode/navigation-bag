@@ -23,5 +23,5 @@
             "LaravelCommode\\NavigationBag\\": "src/LaravelCommode/NavigationBag"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
